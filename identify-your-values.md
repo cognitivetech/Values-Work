@@ -6,6 +6,8 @@
   > - Big decisions you made.
   > - Traumatic experiences and how you responded.
   > - Critical points of transition in major relationships and why you think things went that way.
+* [Core Values List: The Only 216 Values You’ll Ever Need](https://www.scienceofpeople.com/core-values/)
+  > Use this master list of personal values to narrow down what matters most to you. We’ve included fundamental values, personal values in relationships, values in work, and values for life as a whole. 
 
 ## Theory of basic human values
 
@@ -85,3 +87,6 @@ Universal values to more readily identify and align with those you wish to adopt
   > We saw some merging of socially oriented values, which may suggest that these values are less clearly differentiated at a linguistic level or alternatively, this mixing may reflect underlying universal human motivations. We outline some possible applications of our findings for both applications of ChatGPT for corporate usage and policy making as well as future research avenues. We also highlight possible implications of this relatively high-fidelity replication of motivational content using a linguistic model for the theorizing about human values.
 * [The role of values in the effectiveness of prejudice reduction efforts](https://dash.harvard.edu/bitstream/handle/1/37374921/Goel%20Pallavi%20-%20Thesis%20-%20Role%20of%20Values%20-%20April%202023.pdf?sequence=1)
   > A review of the interventions suggests an indirect link between values and prejudice reduction. This study explored the role of values in the effectiveness of prejudice reduction efforts in Canada. The study hypothesized that messages that are aligned with one’s values would be more effective in reducing prejudice.
+* [Value Monitor](http://valuemonitor.eu/)
+  > ValueMonitor is a service developed at Delft University of Technology that can be used to perform value-based gap analyses and impact assessments, on a frequent basis and at relatively low costs. Based on a text-mining tool called probabilistic topic models, values can be traced in written sources (e.g. newspaper articles, policy documents, scientific articles), even if these values are not explicitly mentioned.
+  * [Design for changing values: a theory of value change in sociotechnical systems](https://www.valuechange.eu/)
