@@ -1,7 +1,16 @@
-# Universal Values
-Universal values to more readily identify and align with those you wish to adopt.
+# Identify your values
+
+* [How To Identify Your Real Core Values](https://marcalanschelske.com/identify-real-core-values/)
+  > Your authentic core values are embedded in the important choices and turning points in your life. In a journal, start brainstorming a list of the major decisions that you’ve made. Start today, and work backwards as far as you can remember. Include things like:
+  > 
+  > - Big decisions you made.
+  > - Traumatic experiences and how you responded.
+  > - Critical points of transition in major relationships and why you think things went that way.
 
 ## Theory of basic human values
+
+Universal values to more readily identify and align with those you wish to adopt.
+
 > The theory of basic human values is a theory of cross-cultural psychology and universal values that was developed by Shalom H. Schwartz - [wikipedia](https://en.wikipedia.org/wiki/Theory_of_basic_human_values)
 
 ### Schwartz's 10 Core Values
